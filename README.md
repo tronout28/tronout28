@@ -3,9 +3,8 @@
 <h3 align="center">A passionate frontend and backend developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfok2tNoJD1dAOV5kU3qjsiZHhhd6ib4O5Q&usqp=CAU">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tronout28&label=Profile%20views&color=0e75b6&style=flat" alt="tronout28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tronout28" alt="tronout28" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tronout28&label=Profile%20views&color=0e75b6&style=flat" alt="tronout28" /> </p>
 
 - 🔭 I’m currently School on **SMK Raden Umar Said**
 
@@ -31,4 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tronout28&show_icons=true&locale=en" alt="tronout28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tronout28&" alt="tronout28" /></p>
+
 
