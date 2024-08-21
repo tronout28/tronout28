@@ -1,10 +1,10 @@
 <img align="center" alt="Coding" src="https://miro.medium.com/v2/resize:fit:3000/1*FjidvsHyWyXeLMtGPbxkSg.gif">
 <h1 align="center">Hi 👋, I'm Tronout_28/Fatih</h1>
 <h3 align="center">A passionate frontend and backend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfok2tNoJD1dAOV5kU3qjsiZHhhd6ib4O5Q&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/yp_aFUgHMx8AAAAM/nakanoart-nakanodrawing.gif">
 
 
-<p align="left"> <img src="https://d2w9rnfcy7mm78.cloudfront.net/25405267/original_90324ab932618fc1c43709689061d267.gif?1703732881" alt="tronout28" /> </p>
+<p align="left"> <img src="" alt="tronout28" /> </p>
 
 - 🔭 I’m currently School on **SMK Raden Umar Said**
 
