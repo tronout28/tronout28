@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/yp_aFUgHMx8AAAAM/nakanoart-nakanodrawing.gif">
 
 
-<p align="left"> <img src="" alt="tronout28" /> </p>
 
 - 🔭 I’m currently School on **SMK Raden Umar Said**
 
