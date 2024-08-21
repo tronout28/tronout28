@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/w1200-h630-p-k-no-nu/2000_600px.gif">
+<img align="center" alt="Coding" src="https://www.softprodigy.com/storage/2021/02/SP-97.gif">
 <h1 align="center">Hi 👋, I'm Tronout_28/Fatih</h1>
 <h3 align="center">A passionate frontend and backend developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfok2tNoJD1dAOV5kU3qjsiZHhhd6ib4O5Q&usqp=CAU">
