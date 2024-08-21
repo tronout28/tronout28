@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfok2tNoJD1dAOV5kU3qjsiZHhhd6ib4O5Q&usqp=CAU">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tronout28&label=Profile%20views&color=0e75b6&style=flat" alt="tronout28" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=tronout28&label=Profile%20views&color=0e75b6&style=flat](https://www.softprodigy.com/storage/2021/02/SP-97.gif)" alt="tronout28" /> </p>
 
 - 🔭 I’m currently School on **SMK Raden Umar Said**
 
