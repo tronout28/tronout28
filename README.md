@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" src="https://miro.medium.com/v2/resize:fit:3000/1*FjidvsHyWyXeLMtGPbxkSg.gif">
 <h1 align="center">Hi 👋, I'm Tronout_28/Fatih</h1>
-<h3 align="center">A passionate frontend and backend developer from Indonesia</h3>
+<h3 align="center">A passionate backend developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/yp_aFUgHMx8AAAAM/nakanoart-nakanodrawing.gif">
 
 
