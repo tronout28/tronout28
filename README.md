@@ -1,4 +1,6 @@
+<div align="center">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tronout28.tronout28"/>
+</div>
 
 <img align="center" alt="Coding" src="https://miro.medium.com/v2/resize:fit:3000/1*FjidvsHyWyXeLMtGPbxkSg.gif">
 <h1 align="center">Hi 👋, I'm Tronout_28/Fatih</h1>
@@ -26,8 +28,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,postman" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,codeigniter,django,javascript,laravel,php,firebase,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,postman,figma,git,laravel,php,mysql,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,nextjs" /><br>
 </div>
 
 <br/>
