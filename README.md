@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tronout28.tronout28"/>
+
 <img align="center" alt="Coding" src="https://miro.medium.com/v2/resize:fit:3000/1*FjidvsHyWyXeLMtGPbxkSg.gif">
 <h1 align="center">Hi 👋, I'm Tronout_28/Fatih</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
