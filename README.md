@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently School on **SMK Raden Umar Said**
 
-- 🌱 I’m currently learning **flutter and laravel**
+- 🌱 I’m currently learning and working **laravel Backend**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Laravel Backend**
 
 - 📫 How to reach me **fatihabdurahman28@gmail.com**
 
