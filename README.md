@@ -5,7 +5,7 @@
 <img align="center" alt="Coding" src="https://miro.medium.com/v2/resize:fit:3000/1*FjidvsHyWyXeLMtGPbxkSg.gif">
 <h1 align="center">Hi 👋, I'm Tronout_28/Fatih</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="250" src="https://tenor.com/view/nikke-crown-laugh-nikke-crown-crown-nikke-gif-8761959557614141076">
+<img align="right" alt="Coding" width="250" src="https://tenor.com/view/nikke-crown-laugh-nikke-crown-crown-nikke-gif">
 
 
 
