@@ -5,7 +5,7 @@
 <img align="center" alt="Coding" src="https://miro.medium.com/v2/resize:fit:3000/1*FjidvsHyWyXeLMtGPbxkSg.gif">
 <h1 align="center">Hi 👋, I'm Tronout_28/Fatih</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="225" src="https://i.redd.it/line-app-nikke-stickers-v0-ltpc59slyqyb1.gif?width=240&auto=webp&s=a934bfba681a9d29ab2febaaa91ac017875a251a">
+<img align="right" alt="Coding" width="220" src="https://i.redd.it/line-app-nikke-stickers-v0-ltpc59slyqyb1.gif?width=240&auto=webp&s=a934bfba681a9d29ab2febaaa91ac017875a251a">
 
 
 
